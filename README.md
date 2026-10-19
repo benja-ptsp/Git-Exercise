@@ -25,7 +25,12 @@ c) Update this README.md file:
 👤 1. Student Information
 
 Name: Benja Phatarachareonsophon  
+
 Email: 6730277321@student.chula.ac.th 
+
+Name: Phasit Chaisrithong
+
+Email: 6730353321@student.chula.ac.th
 
 🖼️ 2. Picture
 
