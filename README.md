@@ -32,6 +32,10 @@ Name: Phasit Chaisrithong
 
 Email: 6730353321@student.chula.ac.th
 
+Name: Punyawee chaiiam
+
+Email: 6730320621@student.chula.ac.th
+
 🖼️ 2. Picture
 
 ![Quote](Picture/Quote.jpg)
