@@ -49,3 +49,4 @@ our changes and
 return to what worked.
 
 🎬 5. Video Lecture
+https://youtu.be/alfmHTYsEU4
